@@ -1,0 +1,26 @@
+{
+  "name": "typescript-handbook",
+  "version": "1.0.0",
+  "description": "TypeScript complete reference handbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwani-luhaniwal/typescript-handbook.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Handbook"
+  ],
+  "author": "Ashwani K Luhaniwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashwani-luhaniwal/typescript-handbook/issues"
+  },
+  "homepage": "https://github.com/ashwani-luhaniwal/typescript-handbook#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
